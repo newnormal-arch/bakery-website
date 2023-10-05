@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beakery-webiste/static/css/main.adb766e1.css",
+    "main.js": "/beakery-webiste/static/js/main.e92ee092.js",
+    "static/js/787.4f8bceeb.chunk.js": "/beakery-webiste/static/js/787.4f8bceeb.chunk.js",
+    "static/media/bakery_logo.jpg": "/beakery-webiste/static/media/bakery_logo.d606cb61bc9c9466b508.jpg",
+    "static/media/New_Rainbow-Cakes.jpg": "/beakery-webiste/static/media/New_Rainbow-Cakes.4e7d98d47e66f33d84ec.jpg",
+    "static/media/New_Banting-Cheesecake.jpg": "/beakery-webiste/static/media/New_Banting-Cheesecake.6b3a96f037a4401d45ac.jpg",
+    "static/media/NEW-NY-COOKIE-CHOC-CHIP-1.jpg": "/beakery-webiste/static/media/NEW-NY-COOKIE-CHOC-CHIP-1.03ab74200fc5cad19abf.jpg",
+    "static/media/NEW-QUICHE-BACON.jpg": "/beakery-webiste/static/media/NEW-QUICHE-BACON.612185ab6eda0533e925.jpg",
+    "static/media/VEGAN-CRUNCHIE-BAR.jpg": "/beakery-webiste/static/media/VEGAN-CRUNCHIE-BAR.d3fd800ebea3e67d1468.jpg",
+    "static/media/NEW-RED-VELVET-CHEESECAKE-CUP.jpg": "/beakery-webiste/static/media/NEW-RED-VELVET-CHEESECAKE-CUP.e5ef02176c52d1b5b9d1.jpg",
+    "static/media/NEW-CARROTCAKE-CUP.jpg": "/beakery-webiste/static/media/NEW-CARROTCAKE-CUP.0d39b531368e54d77e50.jpg",
+    "static/media/NEW-LEMON-MERINGUE-CUP.jpg": "/beakery-webiste/static/media/NEW-LEMON-MERINGUE-CUP.dbc56aad522e7efa423c.jpg",
+    "static/media/NEW-MILLIONAIRE-BROWNIES2-1-min.jpg": "/beakery-webiste/static/media/NEW-MILLIONAIRE-BROWNIES2-1-min.c7bfaa1c0de44cd55082.jpg",
+    "index.html": "/beakery-webiste/index.html",
+    "main.adb766e1.css.map": "/beakery-webiste/static/css/main.adb766e1.css.map",
+    "main.e92ee092.js.map": "/beakery-webiste/static/js/main.e92ee092.js.map",
+    "787.4f8bceeb.chunk.js.map": "/beakery-webiste/static/js/787.4f8bceeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb766e1.css",
+    "static/js/main.e92ee092.js"
+  ]
+}
